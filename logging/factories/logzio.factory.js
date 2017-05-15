@@ -1,10 +1,3 @@
-/*******************************************************************************
- * Copyright (c) 2016, Zipit Wireless, Inc.  All rights reserved.
- * The contents of this file are confidential and are the property of Zipit Wireless, Inc. Information contained herein may not be used, copied, modified, or disclosed to any party without the prior written permission of Zipit Wireless, Inc.  Failure to abide by this notice may constitute a breach of contract.
- * ZIPIT MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY OF THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. ZIPIT SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
- *
- ******************************************************************************/
-
 'use strict';
 
 var app = angular.module('com.module.logging');
